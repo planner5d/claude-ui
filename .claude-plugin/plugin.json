@@ -1,0 +1,24 @@
+{
+  "name": "planner5d-design",
+  "displayName": "Planner 5D",
+  "version": "1.0.3",
+  "description": "Import measured floor plans into editable Planner 5D projects, check dimensions and openings, and browse Spaces, projects and documents.",
+  "author": {
+    "name": "UAB Planner5D",
+    "url": "https://planner5d.com"
+  },
+  "homepage": "https://planner5d.com",
+  "repository": "https://github.com/planner5d/claude-ui",
+  "documentationUrl": "https://github.com/planner5d/claude-ui#readme",
+  "supportUrl": "https://support.planner5d.com/en/",
+  "license": "Apache-2.0",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://planner5d.com/pages/privacy",
+  "keywords": [
+    "floor-plans",
+    "interior-design",
+    "architecture",
+    "planner5d"
+  ],
+  "termsOfServiceUrl": "https://planner5d.com/pages/terms"
+}

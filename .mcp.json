@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "planner5d": {
+      "type": "http",
+      "url": "https://copilot.planner5d.com/claude/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Planner 5D plugin
+Copyright (c) 2026 UAB Planner5D.
+
+The Planner 5D name and logo are trademarks of UAB Planner5D.
+Claude and Anthropic are trademarks of Anthropic, PBC.
+
+This plugin is published by UAB Planner5D. It is not developed, sponsored
+or endorsed by Anthropic.
+
+These notices are informational and do not modify the Apache License,
+Version 2.0, in LICENSE.txt.
